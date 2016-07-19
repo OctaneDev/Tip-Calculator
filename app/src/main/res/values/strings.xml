@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="bill">Bill</string>
+    <string name="banner_ad_unit_id">ca-app-pub-5164171001589422/8253764595</string>
+    <string name="bill_amount">Bill Amount</string>
+    <string name="calculate">Calculate</string>
+    <string name="_10">10%</string>
+    <string name="_15">15%</string>
+    <string name="_20">20%</string>
+    <string name="_25">25%</string>
+    <string name="faq">FAQ</string>
+    <string name="restaurant_faq">Restaurant Tipping FAQ</string>
+    <string name="hotel_faq">Hotel Tipping FAQ</string>
+    <string name="about">About</string>
+    <string name="rest_tipping">
+        "Q: Do you tip before or after tax?\nA: You tip before tax.\n\nQ: How much should I tip a waiter?\nA: It's customary to tip at least 15% in the US, but in some countries it's considered rude to tip."
+    </string>
+</resources>
